@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(212, 49, 212);
+}
+.top{
+    font-size: 400%;
+    text-align: center;
+}
+.players{
+    font-size: 150%;
+    text-align: center;
+}
+.one{
+    position: absolute;
+    right: 60%;
+    margin-right: 20px;
+}
+.two{
+    position: absolute;
+    right: 30%;
+    margin-left: 20px;
+}
