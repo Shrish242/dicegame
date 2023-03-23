@@ -5,17 +5,27 @@ body{
     font-size: 400%;
     text-align: center;
 }
-.players{
-    font-size: 150%;
-    text-align: center;
+.container{
+    font-size: xx-large;
 }
-.one{
+.dice1{
     position: absolute;
     right: 60%;
     margin-right: 20px;
 }
-.two{
+.dice2{
     position: absolute;
     right: 30%;
     margin-left: 20px;
+}
+img{
+    height: 180px;
+    width: 180px;
+}
+footer{
+    align-items: center;
+    position: absolute;
+    bottom: 2%;
+    left: 50%;
+    color: antiquewhite;
 }
